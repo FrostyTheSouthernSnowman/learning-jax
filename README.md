@@ -1,0 +1,1 @@
+First experiences working with JAX. I first trained a simple Multi-Layer Perceptron to classify MNIST digits and achieved between 81% and 87% accuracy. Next, I plan to train an RNN on wikipedia articles. Then, I hope to implement a Llama model from scratch.
